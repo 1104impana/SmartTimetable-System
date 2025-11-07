@@ -1,8 +1,5 @@
 # SmartTimetable-System
 AI-powered Academic Timetable Generator aligned with NEP 2020. Automates multidisciplinary scheduling for FYUP, B.Ed., M.Ed., and ITEP programs — resolving conflicts, balancing faculty workload, and adapting to flexible credit structures.
-# SmartTimetable-System
-AI-powered Academic Timetable Generator aligned with NEP 2020. Automates multidisciplinary scheduling for FYUP, B.Ed., M.Ed., and ITEP programs — resolving conflicts, balancing faculty workload, and adapting to flexible credit structures.
-
 ---
 
 ## Features
@@ -66,18 +63,6 @@ http://localhost:5173
 | Username | Password |
 | -------- | -------- |
 | admin    | 1234     |
-
----
-
-## Screenshots
-
-(Add screenshots here)
-Example:
-
-```
-/src/assets/screenshots/homepage.png
-/src/assets/screenshots/timetable.png
-```
 
 ---
 
