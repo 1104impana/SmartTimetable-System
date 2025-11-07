@@ -1,0 +1,5 @@
+{
+  "name": "timetable_generator",
+  "description": "An AI-powered system to generate conflict-free, optimized academic timetables for multidisciplinary education structures aligned with NEP 2020. The system considers courses, faculty, rooms, and program constraints to create a balanced weekly schedule.",
+  "requestFramePermissions": []
+}
